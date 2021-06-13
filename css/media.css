@@ -1,0 +1,308 @@
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 16px;
+
+    }
+    .right-img {
+        width: 100%;
+        margin-top: -30px;
+}
+.reservation-form{
+    text-align: center;
+}  
+.reservation-form .btn-submit{
+    width: 60%;
+}
+    .banner {
+        text-align: center;
+    }
+    .sticker {
+        height: 100px;
+        width: 100px;
+        padding: 8px;
+        top: 52%;
+        left: 21%;
+    }
+   
+    .sticker-text {
+     padding: 0;
+     letter-spacing: 0;
+     line-height: 20px;
+     padding-top: 17px;
+    }
+    .sticker-text p {
+       font-size: 13px;
+   }
+   .sticker-text span {
+   font-size: 22px;
+}
+.banner_left {
+   
+margin-top: 30px;
+}
+.banner_left h3 {
+    font-size: 13px;
+    padding: 7px 11px;
+}
+.banner_left h1 {
+    font-size: 42px;  
+}
+.banner_left h2 {
+    font-size: 28px;  
+}
+.try_it_1 {
+    margin-bottom: 30px;
+}
+.tasty_burger p {
+    font-size: 14px;
+}
+.tasty_burger h2 {
+    line-height: 50px;
+    font-size: 34px;
+}
+.choose_burger img{
+    width: 50%;
+}
+.tasty-burger2 {
+    width: 40%!important;
+}
+.choose_burger {
+    margin-bottom: 24px;
+}
+.marg {
+    padding-top: 15px!important;
+}
+.choose_burger p {
+    padding: 0px;
+}
+.btn-order {
+    padding: 4px 8px;
+    font-size: 16px;
+}
+.slider_box h2 {
+    font-size: 22px;
+    padding-top: 0px;
+    padding-bottom: 8px;
+}
+.slider_box h2 span {
+    font-size: 17px;
+}
+.owl-dots{
+    text-align: center;
+    padding-top: 20px;
+}
+.reservation{
+    background: none;
+}
+footer img {
+    width: 80%;
+    margin-top: -45px;
+    padding-bottom: 25px;
+}
+footer p {
+    font-size: 14px;
+}
+footer h2 {
+    padding-top: 20px;
+ 
+}
+.copywright{
+    padding-top: 20px !important;
+}
+.footer-icon{
+    text-align: center !important;
+}
+
+}
+
+@media(min-width:0) and (max-width:575px){
+    .owl-dots{
+        text-align: center;
+        padding-top: 10px;
+    }
+    .right-img {
+            width: 60%;
+            margin: auto;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 12px;  
+    }
+    .banner {
+        flex-direction: column-reverse;
+    }
+    .sticker {
+        height: 70px;
+        width: 70px;
+        padding: 4px;
+        top: 52%;
+        left: 32%;
+    }
+   
+    .sticker-text {
+     padding: 0;
+     letter-spacing: 0; 
+     line-height: 20px;
+      padding-top: 6px; 
+    }
+    .sticker-text p {
+       font-size: 13px;
+   }
+   .sticker-text span {
+   font-size: 22px;
+}
+.banner_left {
+    text-align: center;
+    margin-top: -35px;
+}
+.banner_left h3 {
+   
+    font-size: 12px;
+    padding: 9px 9px;
+   
+}
+.banner_left h1 {
+    font-size: 42px;
+    text-shadow: 1px 1px 1px #fff;
+   
+}
+.banner_left h2 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.try_it h1 {
+    line-height: 29px;
+    padding-top: 12px;
+    font-size: 25px;
+   
+}
+.try_it h1 span {
+    font-size: 18px;
+}
+.try_it_1 {
+    margin-bottom: 30px;
+}
+.tasty_burger h2 {
+    font-size: 29px; 
+    margin-top: 20px;
+    line-height: 45px;
+    
+}
+.tasty_burger p {
+    font-size: 14px;
+}
+.choose_burger img{
+    width: 50%;
+}
+.tasty-burger2 {
+    width: 40%!important;
+}
+.choose_burger {
+    margin-bottom: 24px;
+}
+.marg {
+    padding-top: 15px!important;
+}
+.choose_burger p {
+    padding: 0px;
+    
+}
+.btn-order {
+    padding: 4px 16px;
+    font-size: 14px;
+}
+.slider_box h2 {
+    font-size: 20px;
+     padding-top: 0px; 
+    padding-bottom: 5px;
+   
+}
+.slider_box h2 span{
+    font-size: 15px;
+}
+.slider_box p {
+    font-size: 12px;
+
+}
+.reservation {
+    background-image:none;
+    padding-top: 0px !important;
+    
+}
+.reservation h4 {
+   font-size: 18px;
+    
+}
+.reservation h5 {
+    font-size: 32px;
+     
+ }
+ .reservation-form {
+     text-align: center;
+     padding-bottom: 0px !important;
+}
+.reservation-form .btn-submit{
+    width: 60%;
+}
+footer img {
+    padding-bottom: 20px;
+}
+footer h2 {
+    font-size: 17px;
+    padding-top: 20px;
+    
+}
+.copywright{
+    text-align: center !important;
+}
+.footer-icon{
+    text-align: center !important;
+}
+
+}
+@media(min-width:0) and (max-width:375px){
+    .navbar-brand{
+        width: 72%;
+    }
+    .sticker {
+        display: none;
+    }
+   
+    .right-img {
+        width: 80%;
+        margin: auto;
+    }
+    .banner_left h1 {
+        font-size: 36px;
+        text-shadow: 1px 1px 1px #fff;
+    }
+    .banner_left h2 {
+        font-size: 21px;
+    
+    }
+    .tasty_burger h2 {
+        font-size: 23px;
+        line-height: 36px;
+    }
+    .reservation h5 {
+        font-size: 26px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    footer img {
+        margin-top: -50px;
+        width: 80%;
+    }
+    .copywright{
+        padding-top: 10px !important;
+    }
+    footer h6 {
+        font-size: 12px;
+      
+    }
+}
